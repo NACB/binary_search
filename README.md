@@ -1,6 +1,8 @@
-# Binary Search 
+#Binary Search
 [![](https://github.com/NACB/binary_search/workflows/tests/badge.svg)](https://github.com/NACB/binary_search/actions?query=workflow%3Atests)
 [![](https://github.com/NACB/binary_search/workflows/extra_credit/badge.svg)](https://github.com/NACB/binary_search/actions?query=workflow%3Atests)
+
+
 
 You will implement several variations of the binary search algorithm.
 
